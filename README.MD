@@ -9,10 +9,10 @@ java -jar "nomeDoarquivo".jar
 
 -Lista de executáveis .jar(são 4 executáveis):
 
-program_questao1.jar
-program_questao2.jar 
-program_questao2Auto.jar
-program_questao3.jar
+program_questao1.jar;
+program_questao2.jar;
+program_questao2Auto.jar;
+program_questao3.jar;
 
 *A versão utilizada do Java é a "11.0.13" 2021-10-19 LTS
 em caso de falha por incompatibilidade de versões, todo conteúdo do repositório pode ser clonado via gitHub e importado para uma IDE e assim executado. O IDE Eclipse foi utilizado para criar essa versão.
